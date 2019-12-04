@@ -1,3 +1,3 @@
 # Animations
-manim(https://github.com/3b1b/manim)やmatplotlibを用いて作成したアニメーションの置き場です.
+manim(https://github.com/3b1b/manim) やmatplotlibを用いて作成したアニメーションの置き場です.
 量子アニーリングなどの説明に役立つものを掲載する予定...
